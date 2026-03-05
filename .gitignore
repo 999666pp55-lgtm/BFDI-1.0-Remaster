@@ -1,0 +1,15 @@
+# Ignore SharpDevelop/Visual Studio junk
+[Bb]in/
+[Oo]bj/
+*.userprefs
+*.usertasks
+*.sln
+*.csproj
+
+# Ignore Unity junk that gets auto-generated
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+[Ll]ogs/
+[Uu]ser[Ss]ettings/
