@@ -2,6 +2,8 @@ Hi. if you are reading this README, i want to say that if you want updates, sinc
 to https://chromewebstore.google.com/detail/livescratch-live-scratch/pfaldlkkohfdnmlcladmhlihpbhlkolm and add it to your chrome browser. it would also work on 
 Microsoft edge and brave browser, and the chromium engine. you can talk about the updates on https://scratch.mit.edu/projects/1287289410/ .
 
+But if you want to download the code and HTML (beta) go to
+
 The link to the part where we talk is on https://scratch.mit.edu/projects/1286766583/ .
 
 if you want to update with me, you can come on 3:50 PM PST. or 7:50 AST. or 6:30 EST. or 2:50 AKST. or 5:50 CST. and plus i mean PM not AM.
@@ -9,3 +11,4 @@ if you want to update with me, you can come on 3:50 PM PST. or 7:50 AST. or 6:30
 but anyways, or you can edit by yourself, and leave a message in https://scratch.mit.edu/projects/1286766583/ if you updated the scratch code.
 
 but you collab in this remix of your project: https://scratch.mit.edu/projects/1286766583/ because you said this Unity version would have a lot more features that the scratch version.
+
